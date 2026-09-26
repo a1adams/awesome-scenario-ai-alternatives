@@ -1,0 +1,229 @@
+{
+  "keyword": "scenario ai alternatives",
+  "title": "Scenario alternatives for consistent game and brand assets",
+  "lastChecked": "2026-09-26",
+  "capabilityChecks": [
+    {
+      "key": "restApi",
+      "label": "REST API"
+    },
+    {
+      "key": "imageTools",
+      "label": "Image tools"
+    },
+    {
+      "key": "vectorOutput",
+      "label": "Vector output"
+    },
+    {
+      "key": "selfHostedRuntime",
+      "label": "Self-hosted runtime"
+    }
+  ],
+  "tools": [
+    {
+      "n": 1,
+      "name": "Scenario",
+      "tagline": null,
+      "homepage": "https://www.scenario.com",
+      "docs": "https://docs.scenario.com",
+      "pricing": null,
+      "claudeConnection": null,
+      "restApi": true,
+      "modelSupport": "Image and video operations; model coverage varies",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested.",
+      "quickstart": [
+        {
+          "label": "Install the official TypeScript SDK; API calls need separately configured credentials:",
+          "lang": "bash",
+          "code": "npm install @scenario-labs/sdk"
+        }
+      ],
+      "capabilities": {
+        "restApi": true,
+        "imageTools": true,
+        "vectorOutput": null,
+        "selfHostedRuntime": null
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    },
+    {
+      "n": 2,
+      "name": "Leonardo AI",
+      "tagline": null,
+      "homepage": "https://leonardo.ai",
+      "docs": "https://docs.leonardo.ai/docs/getting-started",
+      "pricing": null,
+      "claudeConnection": null,
+      "restApi": true,
+      "modelSupport": "Image operations; see documented model and format support",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://docs.leonardo.ai/docs/getting-started"
+        }
+      ],
+      "capabilities": {
+        "restApi": true,
+        "imageTools": true,
+        "vectorOutput": null,
+        "selfHostedRuntime": null
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    },
+    {
+      "n": 3,
+      "name": "Recraft",
+      "tagline": null,
+      "homepage": "https://www.recraft.ai",
+      "docs": "https://www.recraft.ai/docs/api-reference/getting-started",
+      "pricing": null,
+      "claudeConnection": null,
+      "restApi": true,
+      "modelSupport": "Image operations; see documented model and format support",
+      "freeTier": "unverified",
+      "repo": "recraft-ai/mcp-recraft-server",
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://www.recraft.ai/docs/api-reference/getting-started"
+        }
+      ],
+      "capabilities": {
+        "restApi": true,
+        "imageTools": true,
+        "vectorOutput": true,
+        "selfHostedRuntime": null
+      },
+      "live": {
+        "stars": 60,
+        "lastPush": "2026-07-13T10:45:05Z",
+        "latestRelease": "v1.6.5",
+        "latestReleaseDate": "2025-08-06",
+        "checkedAt": "2026-09-26"
+      }
+    },
+    {
+      "n": 4,
+      "name": "ComfyUI",
+      "tagline": null,
+      "homepage": "https://www.comfy.org",
+      "docs": "https://docs.comfy.org",
+      "pricing": null,
+      "claudeConnection": null,
+      "restApi": true,
+      "modelSupport": "Image and video operations; model coverage varies",
+      "freeTier": "unverified",
+      "repo": "Comfy-Org/ComfyUI",
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested. ComfyUI has both local and hosted routes. Downloadable software does not make GPU use, hosted services or every model licence free.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://docs.comfy.org"
+        }
+      ],
+      "capabilities": {
+        "restApi": true,
+        "imageTools": true,
+        "vectorOutput": null,
+        "selfHostedRuntime": true
+      },
+      "live": {
+        "stars": 134984,
+        "lastPush": "2026-09-26T02:46:14Z",
+        "latestRelease": "v0.37.0",
+        "latestReleaseDate": "2026-09-21",
+        "checkedAt": "2026-09-26"
+      }
+    },
+    {
+      "n": 5,
+      "name": "Wireflow",
+      "tagline": null,
+      "homepage": "https://www.wireflow.ai",
+      "docs": "https://www.wireflow.ai/docs",
+      "pricing": "https://www.wireflow.ai/pricing",
+      "claudeConnection": "Hosted MCP; see official connector setup",
+      "restApi": true,
+      "modelSupport": "Image and video operations; model coverage varies",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://www.wireflow.ai/docs"
+        }
+      ],
+      "capabilities": {
+        "restApi": true,
+        "imageTools": true,
+        "vectorOutput": null,
+        "selfHostedRuntime": null
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    },
+    {
+      "n": 6,
+      "name": "Krea AI",
+      "tagline": null,
+      "homepage": "https://www.krea.ai",
+      "docs": "https://www.krea.ai/docs/developers/introduction",
+      "pricing": null,
+      "claudeConnection": null,
+      "restApi": true,
+      "modelSupport": "Image and video operations; model coverage varies",
+      "freeTier": "unverified",
+      "repo": null,
+      "note": "Documentation review 2026-09-21; product/account behaviour was not tested.",
+      "quickstart": [
+        {
+          "label": "Setup reference: follow the official authentication and request guide. This is a documentation URL, not an executed API example.",
+          "lang": "text",
+          "code": "https://www.krea.ai/docs/developers/introduction"
+        }
+      ],
+      "capabilities": {
+        "restApi": true,
+        "imageTools": true,
+        "vectorOutput": null,
+        "selfHostedRuntime": null
+      },
+      "live": {
+        "stars": null,
+        "lastPush": null,
+        "latestRelease": null,
+        "latestReleaseDate": null,
+        "checkedAt": null
+      }
+    }
+  ]
+}
