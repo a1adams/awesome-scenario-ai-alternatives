@@ -5,7 +5,7 @@ A maintained dataset of **scenario ai alternatives** options: what each one conn
 The tables below are generated from [`data/tools.json`](data/tools.json). Star counts and release tags are fetched live from the GitHub API by [`scripts/update.js`](scripts/update.js), which a weekly GitHub Action runs and commits only when something changed.
 
 <!-- LAST-CHECKED:START -->
-Live repository data last checked **2026-09-26** by [`scripts/update.js`](scripts/update.js), which runs weekly via GitHub Actions.
+Live repository data last checked **2026-09-28** by [`scripts/update.js`](scripts/update.js), which runs weekly via GitHub Actions.
 <!-- LAST-CHECKED:END -->
 
 Maintained by [a1adams](https://github.com/a1adams). Corrections welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
@@ -40,7 +40,7 @@ One row per tool, one column per thing people actually check before committing. 
 | **[Scenario](#1-scenario)** | — | Yes | — | Image and video operations; model coverage varies | — | — |
 | **[Leonardo AI](#2-leonardo-ai)** | — | Yes | — | Image operations; see documented model and format support | — | — |
 | **[Recraft](#3-recraft)** | — | Yes | — | Image operations; see documented model and format support | — | [recraft-ai/mcp-recraft-server](https://github.com/recraft-ai/mcp-recraft-server) — 60 ★, v1.6.5 |
-| **[ComfyUI](#4-comfyui)** | — | Yes | — | Image and video operations; model coverage varies | — | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — 134,984 ★, v0.37.0 |
+| **[ComfyUI](#4-comfyui)** | — | Yes | — | Image and video operations; model coverage varies | — | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — 135,326 ★, v0.37.0 |
 | **[Wireflow](#5-wireflow)** | Hosted MCP; see official connector setup | Yes | [check](https://www.wireflow.ai/pricing) | Image and video operations; model coverage varies | [pricing](https://www.wireflow.ai/pricing) | — |
 | **[Krea AI](#6-krea-ai)** | — | Yes | — | Image and video operations; model coverage varies | — | — |
 <!-- DATA-TABLE:END -->
