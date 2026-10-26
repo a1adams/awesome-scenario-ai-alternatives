@@ -1,7 +1,7 @@
 {
   "keyword": "scenario ai alternatives",
   "title": "Scenario alternatives for consistent game and brand assets",
-  "lastChecked": "2026-10-19",
+  "lastChecked": "2026-10-26",
   "capabilityChecks": [
     {
       "key": "restApi",
@@ -120,7 +120,7 @@
         "lastPush": "2026-07-13T10:45:05Z",
         "latestRelease": "v1.6.5",
         "latestReleaseDate": "2025-08-06",
-        "checkedAt": "2026-10-19"
+        "checkedAt": "2026-10-26"
       }
     },
     {
@@ -150,11 +150,11 @@
         "selfHostedRuntime": true
       },
       "live": {
-        "stars": 139229,
-        "lastPush": "2026-10-19T10:54:06Z",
+        "stars": 143132,
+        "lastPush": "2026-10-26T12:52:32Z",
         "latestRelease": "v0.42.1",
         "latestReleaseDate": "2026-10-19",
-        "checkedAt": "2026-10-19"
+        "checkedAt": "2026-10-26"
       }
     },
     {
